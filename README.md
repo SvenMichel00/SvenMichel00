@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SvenMichel00
+- 👋 Hi, I’m Sven
 - 👀 I’m interested in learning to code.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on modding tools for video games, and maybe more.
